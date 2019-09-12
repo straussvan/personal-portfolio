@@ -34,6 +34,7 @@ body {
     font-size: x-large;
 }
 
+
 .innerLower{
     position: sticky;
     top: 0;
@@ -45,6 +46,7 @@ body {
     grid-column: 4/-1;
     padding-left: 50pt;
     padding-right: 100pt;
+    padding-top: 12pt;
 }
 /* yosemite image */
 
@@ -67,12 +69,13 @@ body {
 }
 
 .midHome2{
-    padding-top: 24pt;
+    padding-top: 30pt;
     font-size: x-large;
     background:  #F4F4F8;
     grid-column: 4/-1;
     padding-left: 50pt;
     padding-right: 100pt;
+    
 }
 
 .midHome2 > img{

@@ -22,6 +22,7 @@ const Home = () => {
                 <div className="lower1Home">
                     <div className="innerLower">
                         <h1>The National Park App</h1>
+                        <a href = "http://mynppassport.surge.sh/" target="_blank"> check it out!</a>
                             <br></br>
                     </div>        
                 </div>
@@ -41,16 +42,18 @@ const Home = () => {
                     <img src={zionblog} alt=""/>
                 </div>
                 <div className="bottomHome1">
+                    <h1>The rest of the story</h1>
                     <Fade left>
                         <h1>Get in touch!</h1>
                     </Fade> 
                 </div>
                 <div className="bottomHome2">
-                    <a href = "https://github.com/straussvan">github</a>
+                    <p></p>
+                    <a href = "https://github.com/straussvan" target="_blank">github</a>
                     <br/>
-                    <a href = "https://www.linkedin.com/in/strauss-van-wagenen-7631a615a/">linkedin</a>
+                    <a href = "https://www.linkedin.com/in/strauss-van-wagenen-7631a615a/" target="_blank">linkedin</a>
                     <br/>
-                    <a href = "https://docs.google.com/document/d/1mNhq16vUIwoyGftCy7sYlFsXiBfuBZyyc9PFEVFLcn0/edit?usp=sharing">resume</a>  
+                    <a href = "https://docs.google.com/document/d/1mNhq16vUIwoyGftCy7sYlFsXiBfuBZyyc9PFEVFLcn0/edit?usp=sharing" target="_blank">resume</a>  
                 </div>
             </div>
         );
