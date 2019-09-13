@@ -37,7 +37,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="midHome2">
-                    <p>I created an interactive terminal game that threw you right into solving a mystery with Scooby Doo and the Gang! You get to create you character, look for clues, catch ghouls and ghosts, and get spooked! It was to create something that was so interactive. </p>
+                    <p>A couple classmates and I created a blog using the MERN stack. It allowed the user to upload photos and general posts. </p>
                     <br></br>
                     <img src={zionblog} alt=""/>
                 </div>
